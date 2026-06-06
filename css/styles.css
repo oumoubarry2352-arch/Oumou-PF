@@ -11737,3 +11737,8 @@ html {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+.profile .profile-img {
+    bottom: 15px;
+    max-height: 48rem;
+}

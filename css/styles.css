@@ -11744,3 +11744,8 @@ html {
     }
 
 }
+@media (max-width: 768px) {
+    .profile-img {
+        pointer-events: none;
+    }
+}
